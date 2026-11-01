@@ -21,3 +21,5 @@ The project contains 8 visualizations across 2 dashboards:
 
 ## Objective
 To understand EV market performance and identify insights about sales, battery technology, and vehicle performance.
+## Live Dashboard
+[View Tableau Dashboard](https://public.tableau.com/views/ElectricVehicleMarketPerformanceInsights_17934697735400/Dashboard1?:language=en-US&publish=yes)
